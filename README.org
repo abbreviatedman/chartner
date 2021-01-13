@@ -1,0 +1,32 @@
+* Chartner
+
+** Summary
+
+Chartner is an app for managing the creation of work partners.
+
+** Features
+
+- Saves rosters.
+- Updates and saves number of pairings between roster members.
+- Charts show the number of pairings among the roster members in a human-scannable way.
+- Re-arrange members from one group to another.
+
+** Tools Used
+
+- Test-Driven Development.
+- JavaScript.
+- Node's ~readline~ interface prompts.
+- Saving to local JSON files.
+
+** Coming Soon
+
+- [ ] Saving to servers.
+  + [ ] Save to ~json-server~.
+  + [ ] Save to MongoDB backend.
+- [ ] Add complete tag system for member characteristics.
+  + [ ] Predefined tags.
+    - [ ] Gender.
+    - [ ] Age bracket.
+    - [ ] GPA.
+  + [ ] Admin-defined tags.
+- [ ] GUI
